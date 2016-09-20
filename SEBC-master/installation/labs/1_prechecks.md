@@ -1,4 +1,4 @@
-'''sh
+```sh
 [root@ip-172-31-15-53 ec2-user]# nscd -g
 nscd configuration:
 
@@ -136,4 +136,4 @@ SELinux AVC Statistics:
               0  CAV hits
               0  CAV probes
               1  CAV misses
-'''
+```
