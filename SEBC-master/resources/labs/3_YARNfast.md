@@ -1,4 +1,4 @@
-# SLowest run resutls:
+# Fastest run resutls:
 
 ```
 ---------> Test Spec: Mapper container= 2   Reducer container= 2   Container memory= 1024
